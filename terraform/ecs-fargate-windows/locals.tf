@@ -11,11 +11,11 @@ locals {
   ]
 
   vpce = [
-    "com.amazonaws.us-east-1.ecs",
-    "com.amazonaws.us-east-1.ecs-agent",
-    "com.amazonaws.us-east-1.ecs-telemetry",
-    "com.amazonaws.us-east-1.ecr.api",
-    "com.amazonaws.us-east-1.ecr.dkr"
+    "com.amazonaws.ap-southeast-2.ecs",
+    "com.amazonaws.ap-southeast-2.ecs-agent",
+    "com.amazonaws.ap-southeast-2.ecs-telemetry",
+    "com.amazonaws.ap-southeast-2.ecr.api",
+    "com.amazonaws.ap-southeast-2.ecr.dkr"
   ]
 }
 
